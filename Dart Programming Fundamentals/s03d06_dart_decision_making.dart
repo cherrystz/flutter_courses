@@ -1,16 +1,16 @@
 void main() {
 
-  bool didEatBreakfast;
-  bool didGoToGym;
+  // bool didEatBreakfast;
+  // bool didGoToGym;
 
-  didEatBreakfast = false;
-  didGoToGym = false;
+  // didEatBreakfast = false;
+  // didGoToGym = false;
 
-  if (didEatBreakfast && didGoToGym) {
-    print("Good breakfast, Good healthy");
-  } else if (didEatBreakfast || didGoToGym) {
-    print("breakfast or healthy so bad"); 
-  }
+  // if (didEatBreakfast && didGoToGym) {
+  //   print("Good breakfast, Good healthy");
+  // } else if (didEatBreakfast || didGoToGym) {
+  //   print("breakfast or healthy so bad"); 
+  // }
 
   var breakfastFood = "Eggs";
   switch (breakfastFood) {
