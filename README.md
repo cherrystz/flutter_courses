@@ -32,8 +32,6 @@ Welcome to the Flutter Courses repository! This repo contains all the resources,
 6. Frivia App - Provider State Management, Change Notifiers, Web Requests & Fonts
 7. Finstagram App - Named Routes, Forms, FormFields, Device Storage & NavigationBar, Firebase Integration, Authentication, Upload, Stream & GridView
 8. IBMI App - Cupertino Widgets, Shared Preferences
-9. Debugging and Testing
-
 
 ## 📋 Prerequisites
 - [Flutter SDK](https://flutter.dev/)
